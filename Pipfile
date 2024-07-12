@@ -11,6 +11,7 @@ flask-migrate = "*"
 importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
 flask-cors = "*"
+faker = "*"
 
 [dev-packages]
 ipdb = "*"
